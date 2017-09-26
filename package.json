@@ -1,0 +1,31 @@
+{
+  "name": "stonechallenge",
+  "version": "1.0.0",
+  "description": "Desafio Stone - Livraria",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waldirpereira/stonechallenge.git"
+  },
+  "keywords": [
+    "stone",
+    "challenge",
+    "bookstore"
+  ],
+  "author": "Waldir J. Pereira Junior",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waldirpereira/stonechallenge/issues"
+  },
+  "homepage": "https://github.com/waldirpereira/stonechallenge#readme",
+  "dependencies": {
+    "angular": "^1.6.6",
+    "bootstrap": "^3.3.7"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
